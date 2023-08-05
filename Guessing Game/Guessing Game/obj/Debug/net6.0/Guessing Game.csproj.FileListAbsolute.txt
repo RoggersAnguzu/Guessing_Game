@@ -1,0 +1,30 @@
+C:\Users\Admin\source\repos\Guessing Game\Guessing Game\bin\Debug\net6.0\Guessing Game.exe
+C:\Users\Admin\source\repos\Guessing Game\Guessing Game\bin\Debug\net6.0\Guessing Game.deps.json
+C:\Users\Admin\source\repos\Guessing Game\Guessing Game\bin\Debug\net6.0\Guessing Game.runtimeconfig.json
+C:\Users\Admin\source\repos\Guessing Game\Guessing Game\bin\Debug\net6.0\Guessing Game.dll
+C:\Users\Admin\source\repos\Guessing Game\Guessing Game\bin\Debug\net6.0\Guessing Game.pdb
+C:\Users\Admin\source\repos\Guessing Game\Guessing Game\obj\Debug\net6.0\Guessing Game.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Guessing Game\Guessing Game\obj\Debug\net6.0\Guessing Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Guessing Game\Guessing Game\obj\Debug\net6.0\Guessing Game.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Guessing Game\Guessing Game\obj\Debug\net6.0\Guessing Game.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Guessing Game\Guessing Game\obj\Debug\net6.0\Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Guessing Game\Guessing Game\obj\Debug\net6.0\Guessing Game.dll
+C:\Users\Admin\source\repos\Guessing Game\Guessing Game\obj\Debug\net6.0\refint\Guessing Game.dll
+C:\Users\Admin\source\repos\Guessing Game\Guessing Game\obj\Debug\net6.0\Guessing Game.pdb
+C:\Users\Admin\source\repos\Guessing Game\Guessing Game\obj\Debug\net6.0\Guessing Game.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Guessing Game\Guessing Game\obj\Debug\net6.0\ref\Guessing Game.dll
+D:\C-SHARP PROGRAMMING\repos\Guessing Game\Guessing Game\bin\Debug\net6.0\Guessing Game.exe
+D:\C-SHARP PROGRAMMING\repos\Guessing Game\Guessing Game\bin\Debug\net6.0\Guessing Game.deps.json
+D:\C-SHARP PROGRAMMING\repos\Guessing Game\Guessing Game\bin\Debug\net6.0\Guessing Game.runtimeconfig.json
+D:\C-SHARP PROGRAMMING\repos\Guessing Game\Guessing Game\bin\Debug\net6.0\Guessing Game.dll
+D:\C-SHARP PROGRAMMING\repos\Guessing Game\Guessing Game\bin\Debug\net6.0\Guessing Game.pdb
+D:\C-SHARP PROGRAMMING\repos\Guessing Game\Guessing Game\obj\Debug\net6.0\Guessing Game.csproj.AssemblyReference.cache
+D:\C-SHARP PROGRAMMING\repos\Guessing Game\Guessing Game\obj\Debug\net6.0\Guessing Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-SHARP PROGRAMMING\repos\Guessing Game\Guessing Game\obj\Debug\net6.0\Guessing Game.AssemblyInfoInputs.cache
+D:\C-SHARP PROGRAMMING\repos\Guessing Game\Guessing Game\obj\Debug\net6.0\Guessing Game.AssemblyInfo.cs
+D:\C-SHARP PROGRAMMING\repos\Guessing Game\Guessing Game\obj\Debug\net6.0\Guessing Game.csproj.CoreCompileInputs.cache
+D:\C-SHARP PROGRAMMING\repos\Guessing Game\Guessing Game\obj\Debug\net6.0\Guessing Game.dll
+D:\C-SHARP PROGRAMMING\repos\Guessing Game\Guessing Game\obj\Debug\net6.0\refint\Guessing Game.dll
+D:\C-SHARP PROGRAMMING\repos\Guessing Game\Guessing Game\obj\Debug\net6.0\Guessing Game.pdb
+D:\C-SHARP PROGRAMMING\repos\Guessing Game\Guessing Game\obj\Debug\net6.0\Guessing Game.genruntimeconfig.cache
+D:\C-SHARP PROGRAMMING\repos\Guessing Game\Guessing Game\obj\Debug\net6.0\ref\Guessing Game.dll
